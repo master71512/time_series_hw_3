@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+tslearn
+sktime
+catboost
+statsmodels
+pmdarima
+matplotlib
+seaborn
+joblib
+tqdm
